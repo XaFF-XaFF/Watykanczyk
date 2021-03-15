@@ -46,7 +46,7 @@ namespace Watykańczyk1
             while (true)
             {
                 Random random = new Random();
-                int x = random.Next(1,3);
+                int x = random.Next(1,4);
                 switch (x)
                 {
                     case 1:
